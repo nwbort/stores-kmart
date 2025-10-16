@@ -1,3 +1,3 @@
-# Scheduled scraper
+# Kmart store locations (Australia)
 
-For https://www.kmart.com.au/sitemap/au/storelocation-sitemap.xml
+Regularly updated store list for Kmart Australia.
