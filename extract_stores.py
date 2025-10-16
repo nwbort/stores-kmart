@@ -5,8 +5,10 @@ from pathlib import Path
 from urllib.request import urlopen
 from urllib.error import URLError, HTTPError
 import time
+import argparse
 
 SITEMAP_FILE = "kmart.com.au-sitemap-au-storelocation-sitemap.xml.xml"
+verbose = False
 
 def extract_urls_from_sitemap(filepath):
     """Extract store URLs from the sitemap XML file."""
@@ -24,7 +26,8 @@ def extract_urls_from_sitemap(filepath):
 def get_store_details(url):
     """Fetch a store page and extract details from the JSON data."""
     try:
-        print(f"Fetching: {url}", file=sys.stderr)
+        if verbose:
+            print(f"Fetching: {url}", file=sys.stderr)
         
         with urlopen(url, timeout=10) as response:
             html = response.read().decode('utf-8')
@@ -112,24 +115,45 @@ def get_store_details(url):
 
 def main():
     """Main function to scrape all stores and output as JSON."""
+    global verbose
+    
+    parser = argparse.ArgumentParser(description='Extract Kmart store details from sitemap.')
+    parser.add_argument('-v', '--verbose', action='store_true', help='Enable verbose output')
+    args = parser.parse_args()
+    verbose = args.verbose
+    
     if not Path(SITEMAP_FILE).exists():
         print(f"Error: Sitemap file '{SITEMAP_FILE}' not found.", file=sys.stderr)
         sys.exit(1)
     
     urls = extract_urls_from_sitemap(SITEMAP_FILE)
-    print(f"Found {len(urls)} stores in sitemap", file=sys.stderr)
+    
+    if verbose:
+        print(f"Found {len(urls)} stores in sitemap", file=sys.stderr)
     
     all_stores = []
+    errors = []
+    
     for i, url in enumerate(urls, 1):
         store_data = get_store_details(url)
         if store_data:
             all_stores.append(store_data)
-            print(f"  [{i}/{len(urls)}] {store_data.get('publicName', 'Unknown')}", file=sys.stderr)
+            if verbose:
+                print(f"  [{i}/{len(urls)}] {store_data.get('publicName', 'Unknown')}", file=sys.stderr)
         else:
-            print(f"  [{i}/{len(urls)}] Failed to extract", file=sys.stderr)
+            errors.append((i, url))
+            if verbose:
+                print(f"  [{i}/{len(urls)}] Failed to extract", file=sys.stderr)
         
         # Be polite to the server
         time.sleep(0.5)
+    
+    # Print summary
+    print(f"Extracted {len(all_stores)} stores", file=sys.stderr)
+    if errors:
+        print(f"Failed to extract {len(errors)} stores:", file=sys.stderr)
+        for idx, url in errors:
+            print(f"  [{idx}] {url}", file=sys.stderr)
     
     print(json.dumps(all_stores, indent=2))
 
