@@ -54,6 +54,12 @@ jobs:
     - name: Run the scraper
       run: |
         ./scrape.sh
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.13"
+    - name: Extract store details
+      run: python extract_stores.py > stores.json
     - name: Commit and push
       run: |-
         git config user.name "Automated"
