@@ -155,7 +155,8 @@ def main():
         for idx, url in errors:
             print(f"  [{idx}] {url}", file=sys.stderr)
     
-    print(json.dumps(all_stores, indent=2))
+    all_stores_sorted = sorted(all_stores, key=lambda x: x.get('locationId', ''))
+    print(json.dumps(all_stores_sorted, indent=2))
 
 if __name__ == "__main__":
     main()
