@@ -15,11 +15,6 @@
       {
         "__typename": "TradingHour",
         "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
         "weekDay": "SUNDAY"
       },
       {
@@ -46,6 +41,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -67,11 +67,6 @@
       {
         "__typename": "TradingHour",
         "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
         "weekDay": "SUNDAY"
       },
       {
@@ -98,6 +93,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -116,11 +116,6 @@
     "latitude": "-34.829267999999999",
     "longitude": "138.648022",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -150,6 +145,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -168,11 +168,6 @@
     "latitude": "-31.896991",
     "longitude": "115.899636",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -202,6 +197,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -220,11 +220,6 @@
     "latitude": "-34.956353999999997",
     "longitude": "138.56571199999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -254,6 +249,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -275,11 +275,6 @@
       {
         "__typename": "TradingHour",
         "hours": "7:00AM - 11:59PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -306,6 +301,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -327,11 +327,6 @@
       {
         "__typename": "TradingHour",
         "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
         "weekDay": "SUNDAY"
       },
       {
@@ -358,6 +353,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -376,11 +376,6 @@
     "latitude": "-42.855811000000003",
     "longitude": "147.30484000000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "24hr",
@@ -410,6 +405,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -428,11 +428,6 @@
     "latitude": "-34.904997999999999",
     "longitude": "138.65589299999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -462,6 +457,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -480,11 +480,6 @@
     "latitude": "-27.471461999999999",
     "longitude": "153.09833200000003",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -514,6 +509,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -535,11 +535,6 @@
       {
         "__typename": "TradingHour",
         "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
         "weekDay": "SUNDAY"
       },
       {
@@ -566,6 +561,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -587,11 +587,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -618,6 +613,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -636,11 +636,6 @@
     "latitude": "-27.571386",
     "longitude": "153.06358799999998",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -670,6 +665,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -688,11 +688,6 @@
     "latitude": "-31.965461999999999",
     "longitude": "115.934394",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -722,6 +717,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -740,11 +740,6 @@
     "latitude": "-34.43582",
     "longitude": "150.862336",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "24hr",
@@ -774,6 +769,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -792,11 +792,6 @@
     "latitude": "-34.879489999999997",
     "longitude": "138.49060499999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -826,6 +821,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -846,11 +846,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -878,6 +873,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -898,11 +898,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -930,6 +925,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -948,11 +948,6 @@
     "latitude": "-20.725895999999999",
     "longitude": "139.495057",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "Closed",
@@ -982,6 +977,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1003,11 +1003,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1034,6 +1029,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1052,11 +1052,6 @@
     "latitude": "-27.225641",
     "longitude": "153.08755099999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -1086,6 +1081,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1107,11 +1107,6 @@
       {
         "__typename": "TradingHour",
         "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
         "weekDay": "SUNDAY"
       },
       {
@@ -1138,6 +1133,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1156,11 +1156,6 @@
     "latitude": "-27.595542999999999",
     "longitude": "151.94922200000002",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -1190,6 +1185,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1211,11 +1211,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1242,6 +1237,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1262,11 +1262,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -1294,6 +1289,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1314,11 +1314,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -1346,6 +1341,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1366,11 +1366,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -1398,6 +1393,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1418,11 +1418,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -1450,6 +1445,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1471,11 +1471,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1502,6 +1497,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1523,11 +1523,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 11:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1554,6 +1549,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1575,11 +1575,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1606,6 +1601,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1624,11 +1624,6 @@
     "latitude": "-32.290146",
     "longitude": "115.7441",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -1658,6 +1653,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1679,11 +1679,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1710,6 +1705,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1731,11 +1731,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1762,6 +1757,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1783,11 +1783,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1814,6 +1809,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1835,11 +1835,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1866,6 +1861,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1887,11 +1887,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1918,6 +1913,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1939,11 +1939,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -1970,6 +1965,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -1991,11 +1991,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -2022,6 +2017,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2040,11 +2040,6 @@
     "latitude": "-27.549647",
     "longitude": "152.93894",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -2074,6 +2069,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2092,11 +2092,6 @@
     "latitude": "-35.142055999999997",
     "longitude": "138.49571",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -2126,6 +2121,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2147,11 +2147,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -2178,6 +2173,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2196,11 +2196,6 @@
     "latitude": "-28.810167",
     "longitude": "153.28674599999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -2230,6 +2225,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2251,11 +2251,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -2282,6 +2277,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2300,11 +2300,6 @@
     "latitude": "-31.889817000000001",
     "longitude": "116.010328",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -2334,6 +2329,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2355,11 +2355,6 @@
       {
         "__typename": "TradingHour",
         "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
         "weekDay": "SUNDAY"
       },
       {
@@ -2386,6 +2381,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2407,11 +2407,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -2438,6 +2433,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2456,11 +2456,6 @@
     "latitude": "-33.694941999999998",
     "longitude": "151.29599300000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
@@ -2490,6 +2485,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2508,11 +2508,6 @@
     "latitude": "-21.119572909114101",
     "longitude": "149.159231185913",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -2542,6 +2537,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2560,11 +2560,6 @@
     "latitude": "-32.053238999999998",
     "longitude": "115.978256",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -2594,6 +2589,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2615,11 +2615,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -2646,6 +2641,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2667,11 +2667,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -2698,6 +2693,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2716,11 +2716,6 @@
     "latitude": "-26.654025000000001",
     "longitude": "153.088514",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -2750,6 +2745,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2768,11 +2768,6 @@
     "latitude": "-42.866376000000002",
     "longitude": "147.36814100000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
@@ -2802,6 +2797,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2820,11 +2820,6 @@
     "latitude": "-27.456367",
     "longitude": "153.15537699999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -2854,6 +2849,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2872,11 +2872,6 @@
     "latitude": "-34.752384599999999",
     "longitude": "149.72120179999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
@@ -2906,6 +2901,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2942,11 +2942,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -2974,6 +2969,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -2994,11 +2994,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -3026,6 +3021,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3046,11 +3046,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -3078,6 +3073,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3099,11 +3099,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -3130,6 +3125,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3151,11 +3151,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -3182,6 +3177,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3200,11 +3200,6 @@
     "latitude": "-34.010542999999998",
     "longitude": "151.10383000000002",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
@@ -3234,6 +3229,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3255,11 +3255,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -3286,6 +3281,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3304,11 +3304,6 @@
     "latitude": "-41.051257999999997",
     "longitude": "145.90496400000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -3338,6 +3333,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3359,11 +3359,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -3390,6 +3385,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3411,11 +3411,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -3442,6 +3437,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3460,11 +3460,6 @@
     "latitude": "-32.199987",
     "longitude": "152.52062799999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -3494,6 +3489,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3512,11 +3512,6 @@
     "latitude": "-32.535688999999998",
     "longitude": "115.743117",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "10:00AM - 5:00PM",
@@ -3546,6 +3541,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3567,11 +3567,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -3598,6 +3593,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3619,11 +3619,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -3650,6 +3645,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3671,11 +3671,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -3702,6 +3697,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3723,11 +3723,6 @@
       {
         "__typename": "TradingHour",
         "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
         "weekDay": "SUNDAY"
       },
       {
@@ -3754,6 +3749,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3775,11 +3775,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -3806,6 +3801,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3824,11 +3824,6 @@
     "latitude": "-32.152802000000001",
     "longitude": "116.015535",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -3858,6 +3853,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3879,11 +3879,6 @@
       {
         "__typename": "TradingHour",
         "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
         "weekDay": "SUNDAY"
       },
       {
@@ -3910,6 +3905,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3928,11 +3928,6 @@
     "latitude": "-33.374749999999999",
     "longitude": "151.47310300000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
@@ -3962,6 +3957,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -3980,11 +3980,6 @@
     "latitude": "-33.488042999999998",
     "longitude": "151.32397",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
@@ -4014,6 +4009,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4035,11 +4035,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4066,6 +4061,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4086,11 +4086,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -4118,6 +4113,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4138,11 +4138,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -4170,6 +4165,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4191,11 +4191,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4222,6 +4217,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4240,11 +4240,6 @@
     "latitude": "-23.700417000000002",
     "longitude": "133.87815699999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -4274,6 +4269,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4295,11 +4295,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4326,6 +4321,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4344,11 +4344,6 @@
     "latitude": "-27.605316999999999",
     "longitude": "152.86801200000002",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -4378,6 +4373,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4399,11 +4399,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4430,6 +4425,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4451,11 +4451,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4482,6 +4477,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4503,11 +4503,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4534,6 +4529,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4555,11 +4555,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4586,6 +4581,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4607,11 +4607,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4638,6 +4633,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4659,11 +4659,6 @@
       {
         "__typename": "TradingHour",
         "hours": "Closed",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
         "weekDay": "SUNDAY"
       },
       {
@@ -4690,6 +4685,11 @@
         "__typename": "TradingHour",
         "hours": "Closed",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "Closed",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4711,11 +4711,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4742,6 +4737,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4763,11 +4763,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4794,6 +4789,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4815,11 +4815,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -4846,6 +4841,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4867,11 +4867,6 @@
       {
         "__typename": "TradingHour",
         "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
         "weekDay": "SUNDAY"
       },
       {
@@ -4898,6 +4893,11 @@
         "__typename": "TradingHour",
         "hours": "24hr",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "24hr",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4918,11 +4918,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -4950,6 +4945,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -4970,11 +4970,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -5002,6 +4997,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5022,11 +5022,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -5054,6 +5049,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5075,11 +5075,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5106,6 +5101,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5127,11 +5127,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5158,6 +5153,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5179,11 +5179,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5210,6 +5205,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5231,11 +5231,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5262,6 +5257,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5282,11 +5282,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -5314,6 +5309,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5334,11 +5334,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -5366,6 +5361,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5386,11 +5386,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -5418,6 +5413,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5439,11 +5439,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5470,6 +5465,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5491,11 +5491,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5522,6 +5517,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5540,11 +5540,6 @@
     "latitude": "-31.901382000000002",
     "longitude": "115.79840600000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -5574,6 +5569,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5592,11 +5592,6 @@
     "latitude": "-27.660413999999999",
     "longitude": "153.17183700000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -5626,6 +5621,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5647,11 +5647,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5678,6 +5673,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5698,11 +5698,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -5730,6 +5725,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5750,11 +5750,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -5782,6 +5777,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5803,11 +5803,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5834,6 +5829,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5855,11 +5855,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5886,6 +5881,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5907,11 +5907,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -5938,6 +5933,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -5958,11 +5958,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -5990,6 +5985,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6010,11 +6010,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -6042,6 +6037,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6062,11 +6062,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -6094,6 +6089,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6114,11 +6114,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -6146,6 +6141,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6166,11 +6166,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -6198,6 +6193,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6219,11 +6219,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6250,6 +6245,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6271,11 +6271,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6302,6 +6297,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6323,11 +6323,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6354,6 +6349,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6375,11 +6375,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6406,6 +6401,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6424,11 +6424,6 @@
     "latitude": "-32.018751999999999",
     "longitude": "115.936548",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -6458,6 +6453,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6476,11 +6476,6 @@
     "latitude": "-27.384156999999998",
     "longitude": "153.03235700000002",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -6510,6 +6505,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6531,11 +6531,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6562,6 +6557,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6583,11 +6583,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6614,6 +6609,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6632,11 +6632,6 @@
     "latitude": "-32.035466",
     "longitude": "115.83676800000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -6666,6 +6661,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6687,11 +6687,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6718,6 +6713,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6739,11 +6739,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6770,6 +6765,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6788,11 +6788,6 @@
     "latitude": "-32.736221999999998",
     "longitude": "152.10716500000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -6822,6 +6817,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6840,11 +6840,6 @@
     "latitude": "-35.019682000000003",
     "longitude": "117.882324",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "10:00AM - 5:00PM",
@@ -6874,6 +6869,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6895,11 +6895,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6926,6 +6921,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6947,16 +6947,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -6978,6 +6968,16 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -6996,11 +6996,6 @@
     "latitude": "-34.688127000000001",
     "longitude": "138.68973800000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -7030,6 +7025,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7051,11 +7051,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -7082,6 +7077,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7103,11 +7103,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -7134,6 +7129,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7154,11 +7154,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -7186,6 +7181,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7206,11 +7206,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -7238,6 +7233,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7258,11 +7258,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -7290,6 +7285,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7310,11 +7310,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -7342,6 +7337,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7363,11 +7363,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -7394,6 +7389,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7415,11 +7415,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -7446,6 +7441,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7467,11 +7467,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -7498,6 +7493,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7518,11 +7518,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -7550,6 +7545,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7570,11 +7570,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -7602,6 +7597,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7623,11 +7623,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -7654,6 +7649,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7675,11 +7675,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -7706,6 +7701,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7727,11 +7727,6 @@
       {
         "__typename": "TradingHour",
         "hours": "Closed",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
         "weekDay": "SUNDAY"
       },
       {
@@ -7758,6 +7753,11 @@
         "__typename": "TradingHour",
         "hours": "Closed",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "Closed",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7779,11 +7779,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -7810,6 +7805,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7830,11 +7830,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -7862,6 +7857,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7882,11 +7882,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -7914,6 +7909,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7935,11 +7935,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -7966,6 +7961,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -7987,11 +7987,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8018,6 +8013,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8039,11 +8039,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8070,6 +8065,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8091,11 +8091,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8122,6 +8117,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8140,11 +8140,6 @@
     "latitude": "-34.922830900000001",
     "longitude": "138.60256140000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -8174,6 +8169,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8195,11 +8195,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8226,6 +8221,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8247,11 +8247,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8278,6 +8273,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8298,11 +8298,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -8330,6 +8325,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8350,11 +8350,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -8382,6 +8377,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8402,11 +8402,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
@@ -8434,6 +8429,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8455,11 +8455,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8486,6 +8481,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8507,11 +8507,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8538,6 +8533,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8556,11 +8556,6 @@
     "latitude": "-34.861080627571489",
     "longitude": "138.58275424841008",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -8590,6 +8585,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8611,11 +8611,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8642,6 +8637,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8663,11 +8663,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8694,6 +8689,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8715,11 +8715,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -8746,6 +8741,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8764,11 +8764,6 @@
     "latitude": "-27.239970100000001",
     "longitude": "153.01621509999995",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -8798,6 +8793,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8816,11 +8816,6 @@
     "latitude": "-32.332793799999997",
     "longitude": "115.81420159999993",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -8850,6 +8845,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8868,11 +8868,6 @@
     "latitude": "-27.8890648",
     "longitude": "153.3122128",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -8902,6 +8897,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8920,11 +8920,6 @@
     "latitude": "-31.429320700000002",
     "longitude": "152.89833859999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
@@ -8954,6 +8949,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -8972,11 +8972,6 @@
     "latitude": "-27.562583499999999",
     "longitude": "153.08425009999996",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -9006,6 +9001,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9079,11 +9079,6 @@
       {
         "__typename": "TradingHour",
         "hours": "7:00AM - 11:59PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9110,6 +9105,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 11:59PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 11:59PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9128,11 +9128,6 @@
     "latitude": "-27.562120100000001",
     "longitude": "151.9497715",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -9162,6 +9157,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9183,11 +9183,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9214,6 +9209,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9232,11 +9232,6 @@
     "latitude": "-19.315594000000001",
     "longitude": "146.81737999999996",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -9266,6 +9261,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9287,11 +9287,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9318,6 +9313,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9339,11 +9339,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9370,6 +9365,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9388,11 +9388,6 @@
     "latitude": "-32.548906299999999",
     "longitude": "115.70342089999997",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "10:00AM - 5:00PM",
@@ -9422,6 +9417,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9443,11 +9443,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9474,6 +9469,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9495,11 +9495,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9526,6 +9521,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9547,11 +9547,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9578,6 +9573,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9599,11 +9599,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9630,6 +9625,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9648,11 +9648,6 @@
     "latitude": "-27.155193499999999",
     "longitude": "152.97492260000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -9682,6 +9677,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9700,11 +9700,6 @@
     "latitude": "-32.469225700000003",
     "longitude": "115.76350509999997",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "10:00AM - 5:00PM",
@@ -9734,6 +9729,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9752,11 +9752,6 @@
     "latitude": "-27.853795999999999",
     "longitude": "153.31477599999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -9786,6 +9781,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9807,11 +9807,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9838,6 +9833,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9856,11 +9856,6 @@
     "latitude": "-30.187559425838511",
     "longitude": "153.03613109953238",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -9890,6 +9885,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9911,11 +9911,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9942,6 +9937,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -9963,11 +9963,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -9994,6 +9989,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10015,11 +10015,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -10046,6 +10041,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10067,11 +10067,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -10098,6 +10093,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10119,11 +10119,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -10150,6 +10145,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10168,11 +10168,6 @@
     "latitude": "-27.411309500000002",
     "longitude": "153.01019669999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -10202,6 +10197,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10220,11 +10220,6 @@
     "latitude": "-31.984240199999999",
     "longitude": "115.90165769999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -10254,6 +10249,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10272,11 +10272,6 @@
     "latitude": "-32.942751199999996",
     "longitude": "151.71100329999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
@@ -10306,6 +10301,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10327,11 +10327,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -10358,6 +10353,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10376,11 +10376,6 @@
     "latitude": "-31.782888",
     "longitude": "115.969751",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -10410,6 +10405,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10428,11 +10428,6 @@
     "latitude": "-27.660450000000001",
     "longitude": "152.74194",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -10462,6 +10457,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10483,11 +10483,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -10514,6 +10509,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10532,11 +10532,6 @@
     "latitude": "-27.503220500000001",
     "longitude": "153.10081729999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -10566,6 +10561,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10584,11 +10584,6 @@
     "latitude": "-37.733152939336343",
     "longitude": "144.74339354005286",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
@@ -10618,6 +10613,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10636,11 +10636,6 @@
     "latitude": "-28.76717567",
     "longitude": "114.616844177",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -10670,6 +10665,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10688,11 +10688,6 @@
     "latitude": "-36.128453",
     "longitude": "144.75117800000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -10722,6 +10717,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10743,11 +10743,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -10774,6 +10769,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10794,11 +10794,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -10826,6 +10821,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10847,11 +10847,6 @@
       {
         "__typename": "TradingHour",
         "hours": "Closed",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
         "weekDay": "SUNDAY"
       },
       {
@@ -10878,6 +10873,11 @@
         "__typename": "TradingHour",
         "hours": "Closed",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "Closed",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10898,11 +10898,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -10930,6 +10925,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -10950,11 +10950,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -10982,6 +10977,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11000,11 +11000,6 @@
     "latitude": "-30.511417999999999",
     "longitude": "151.66265100000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -11034,6 +11029,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11055,11 +11055,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11086,6 +11081,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11107,11 +11107,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11138,6 +11133,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11159,11 +11159,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11190,6 +11185,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11208,11 +11208,6 @@
     "latitude": "-32.7615999",
     "longitude": "151.59165780000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
@@ -11242,6 +11237,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11260,11 +11260,6 @@
     "latitude": "-30.749357",
     "longitude": "121.4713933",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 3:00PM",
@@ -11294,6 +11289,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11315,11 +11315,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11346,6 +11341,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11364,11 +11364,6 @@
     "latitude": "-38.603936300000001",
     "longitude": "145.5840771",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -11398,6 +11393,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11416,11 +11416,6 @@
     "latitude": "-31.6912746",
     "longitude": "115.7158731",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -11450,6 +11445,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11471,11 +11471,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11502,6 +11497,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11520,11 +11520,6 @@
     "latitude": "-33.027669500000002",
     "longitude": "137.5294993",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -11554,6 +11549,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11575,11 +11575,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11606,6 +11601,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11627,11 +11627,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11658,6 +11653,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11679,11 +11679,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11710,6 +11705,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11728,11 +11728,6 @@
     "latitude": "-32.130567999999997",
     "longitude": "115.8538296",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -11762,6 +11757,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11780,11 +11780,6 @@
     "latitude": "-27.625435924550494",
     "longitude": "152.96823587989718",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -11814,6 +11809,11 @@
         "__typename": "TradingHour",
         "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "7:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11835,11 +11835,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11866,6 +11861,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11884,11 +11884,6 @@
     "latitude": "-31.96540397522843",
     "longitude": "141.45574665826092",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -11918,6 +11913,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11939,11 +11939,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -11970,6 +11965,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -11991,11 +11991,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12022,6 +12017,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12043,11 +12043,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12074,6 +12069,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12095,11 +12095,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12126,6 +12121,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12147,11 +12147,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12178,6 +12173,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12199,11 +12199,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12230,6 +12225,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12251,11 +12251,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12282,6 +12277,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12300,11 +12300,6 @@
     "latitude": "-31.797426000000002",
     "longitude": "115.745648",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -12334,6 +12329,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12355,11 +12355,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12386,6 +12381,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12407,11 +12407,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12438,6 +12433,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12456,11 +12456,6 @@
     "latitude": "-33.307636218334643",
     "longitude": "151.41251825557777",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
@@ -12490,6 +12485,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12508,11 +12508,6 @@
     "latitude": "-33.765538419618878",
     "longitude": "151.26600292916962",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
@@ -12542,6 +12537,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 9:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12563,11 +12563,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12594,6 +12589,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12615,11 +12615,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12646,6 +12641,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12664,11 +12664,6 @@
     "latitude": "-16.925176962430324",
     "longitude": "145.77208269663564",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 7:00PM",
@@ -12698,6 +12693,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12719,11 +12719,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12750,6 +12745,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12768,11 +12768,6 @@
     "latitude": "-31.954096",
     "longitude": "115.85865",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -12802,6 +12797,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12823,11 +12823,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -12854,6 +12849,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12872,11 +12872,6 @@
     "latitude": "-31.752528867964401",
     "longitude": "115.80471754074101",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "11:00AM - 5:00PM",
@@ -12906,6 +12901,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12924,11 +12924,6 @@
     "latitude": "-37.048308587298493",
     "longitude": "143.74186052513102",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -12958,6 +12953,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -12976,11 +12976,6 @@
     "latitude": "-30.3538052746561",
     "longitude": "153.09173583984401",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -13010,6 +13005,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13031,11 +13031,6 @@
       {
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -13062,6 +13057,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13082,11 +13082,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "10:00AM - 4:00PM",
         "weekDay": "SUNDAY"
       },
@@ -13114,6 +13109,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13134,11 +13134,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "10:00AM - 4:00PM",
         "weekDay": "SUNDAY"
       },
@@ -13166,6 +13161,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13184,11 +13184,6 @@
     "latitude": "-21.416637000000001",
     "longitude": "149.21765199999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -13218,6 +13213,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13239,11 +13239,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -13270,6 +13265,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13288,11 +13288,6 @@
     "latitude": "-38.477600000000002",
     "longitude": "145.9442",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -13322,6 +13317,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13343,11 +13343,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -13374,6 +13369,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13395,11 +13395,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -13426,6 +13421,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13447,11 +13447,6 @@
       {
         "__typename": "TradingHour",
         "hours": "Closed",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
         "weekDay": "SUNDAY"
       },
       {
@@ -13478,6 +13473,11 @@
         "__typename": "TradingHour",
         "hours": "Closed",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "Closed",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13499,11 +13499,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -13530,6 +13525,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13548,11 +13548,6 @@
     "latitude": "-20.01491",
     "longitude": "148.24458999999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "Closed",
@@ -13582,6 +13577,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:30PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13600,11 +13600,6 @@
     "latitude": "-28.550846",
     "longitude": "150.321541",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "Closed",
@@ -13634,6 +13629,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13655,11 +13655,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -13686,6 +13681,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13704,11 +13704,6 @@
     "latitude": "-33.715150000000001",
     "longitude": "150.30965",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -13738,6 +13733,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13756,11 +13756,6 @@
     "latitude": "-28.216137",
     "longitude": "152.03071600000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 4:00PM",
@@ -13790,6 +13785,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13808,11 +13808,6 @@
     "latitude": "-26.571840999999999",
     "longitude": "148.79091",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "Closed",
@@ -13842,6 +13837,11 @@
         "__typename": "TradingHour",
         "hours": "10:00AM - 4:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13860,11 +13860,6 @@
     "latitude": "-32.629246000000002",
     "longitude": "115.87428300000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -13894,6 +13889,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13915,11 +13915,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -13946,6 +13941,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -13964,11 +13964,6 @@
     "latitude": "-35.301259999999999",
     "longitude": "148.22085000000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "10:00AM - 4:00PM",
@@ -13998,6 +13993,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14019,11 +14019,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -14050,6 +14045,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14068,11 +14068,6 @@
     "latitude": "-33.858997000000002",
     "longitude": "121.89014400000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "Closed",
@@ -14102,6 +14097,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14120,11 +14120,6 @@
     "latitude": "-20.076865000000002",
     "longitude": "146.266347",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "Closed",
@@ -14154,6 +14149,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14175,11 +14175,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -14206,6 +14201,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14224,11 +14224,6 @@
     "latitude": "-35.553749000000003",
     "longitude": "138.62142900000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -14258,6 +14253,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14276,11 +14276,6 @@
     "latitude": "-26.188329",
     "longitude": "152.66177099999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -14310,6 +14305,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14328,11 +14328,6 @@
     "latitude": "-32.598590000000002",
     "longitude": "149.58926",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "10:00AM - 4:00PM",
@@ -14362,6 +14357,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14380,11 +14380,6 @@
     "latitude": "-19.569669000000001",
     "longitude": "147.41100299999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "Closed",
@@ -14414,6 +14409,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14432,11 +14432,6 @@
     "latitude": "-34.168779999999998",
     "longitude": "150.61337",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "10:00AM - 5:00PM",
@@ -14466,6 +14461,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14487,11 +14487,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -14518,6 +14513,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14538,11 +14538,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -14570,6 +14565,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14590,11 +14590,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -14622,6 +14617,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14642,11 +14642,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -14674,6 +14669,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14694,11 +14694,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -14726,6 +14721,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14744,11 +14744,6 @@
     "latitude": "-27.183571000000001",
     "longitude": "151.26341600000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 4:00PM",
@@ -14778,6 +14773,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14796,11 +14796,6 @@
     "latitude": "-31.653616",
     "longitude": "116.671555",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -14830,6 +14825,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14848,11 +14848,6 @@
     "latitude": "-34.480049999999999",
     "longitude": "150.41650999999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "10:00AM - 5:00PM",
@@ -14882,6 +14877,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14900,11 +14900,6 @@
     "latitude": "-28.655995000000001",
     "longitude": "151.93382700000001",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 4:00PM",
@@ -14934,6 +14929,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -14955,11 +14955,6 @@
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
       {
@@ -14986,6 +14981,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15006,11 +15006,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 4:00PM",
         "weekDay": "SUNDAY"
       },
@@ -15038,6 +15033,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:30PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15058,11 +15058,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:30PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:30PM",
         "weekDay": "SUNDAY"
       },
@@ -15090,6 +15085,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:30PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15110,11 +15110,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:30PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -15142,6 +15137,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:30PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15162,11 +15162,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 4:00PM",
         "weekDay": "SUNDAY"
       },
@@ -15194,6 +15189,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15214,11 +15214,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -15246,6 +15241,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15266,11 +15266,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -15298,6 +15293,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15316,11 +15316,6 @@
     "latitude": "-29.428913999999999",
     "longitude": "153.32676699999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 4:00PM",
@@ -15350,6 +15345,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15370,11 +15370,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -15402,6 +15397,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15422,11 +15422,6 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       },
@@ -15454,6 +15449,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15472,11 +15472,6 @@
     "latitude": "-33.383352249103815",
     "longitude": "148.00859765558013",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "10:00AM - 4:00PM",
@@ -15506,6 +15501,11 @@
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15524,11 +15524,6 @@
     "latitude": "-38.33925163980593",
     "longitude": "143.58574352071025",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 5:00PM",
@@ -15558,6 +15553,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
@@ -15576,11 +15576,6 @@
     "latitude": "-33.965947800000002",
     "longitude": "137.71412509999999",
     "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
       {
         "__typename": "TradingHour",
         "hours": "9:00AM - 6:00PM",
@@ -15610,6 +15605,11 @@
         "__typename": "TradingHour",
         "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
       }
     ],
     "typename": "Location",
