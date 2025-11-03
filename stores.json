@@ -3440,7 +3440,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -9946,6 +9946,58 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/delacombe/"
+  },
+  {
+    "locationId": "1262",
+    "publicName": "Broadmeadows",
+    "phoneNumber": "+61 3 9230 2500",
+    "address1": "1169 Pascoe Vale Rd ",
+    "address2": "",
+    "address3": "",
+    "city": "Broadmeadows",
+    "state": "VIC",
+    "postcode": "3047",
+    "latitude": "-37.703852099999999",
+    "longitude": "144.87940490000005",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 8:00PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/broadmeadows/"
   },
   {
     "locationId": "1263",
