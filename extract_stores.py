@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.request import urlopen
 from urllib.error import URLError, HTTPError
-import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import argparse
 
 SITEMAP_FILE = "kmart.com.au-sitemap-au-storelocation-sitemap.xml.xml"
@@ -17,7 +17,7 @@ def extract_urls_from_sitemap(filepath):
         root = tree.getroot()
         # Handle the namespace
         namespace = {'ns': 'https://www.sitemaps.org/schemas/sitemap/0.9'}
-        urls = [elem.text for elem in root.findall('.//ns:loc', namespace)]
+        urls = [elem.text for elem.findall('.//ns:loc', namespace)]
         return urls
     except Exception as e:
         print(f"Error parsing sitemap: {e}", file=sys.stderr)
@@ -113,30 +113,13 @@ def get_store_details(url):
         print(f"Error processing {url}: {e}", file=sys.stderr)
         return None
 
-def sort_trading_hours(store_data):
-    """Sort trading hours from Monday to Sunday."""
-    if store_data and 'tradingHours' in store_data and store_data['tradingHours']:
-        day_order = {
-            'MONDAY': 0,
-            'TUESDAY': 1,
-            'WEDNESDAY': 2,
-            'THURSDAY': 3,
-            'FRIDAY': 4,
-            'SATURDAY': 5,
-            'SUNDAY': 6
-        }
-        store_data['tradingHours'] = sorted(
-            store_data['tradingHours'],
-            key=lambda x: day_order.get(x.get('weekDay', ''), 7)
-        )
-    return store_data
-
 def main():
     """Main function to scrape all stores and output as JSON."""
     global verbose
     
     parser = argparse.ArgumentParser(description='Extract Kmart store details from sitemap.')
     parser.add_argument('-v', '--verbose', action='store_true', help='Enable verbose output')
+    parser.add_argument('-w', '--workers', type=int, default=10, help='Number of parallel workers (default: 10)')
     args = parser.parse_args()
     verbose = args.verbose
     
@@ -152,20 +135,31 @@ def main():
     all_stores = []
     errors = []
     
-    for i, url in enumerate(urls, 1):
-        store_data = get_store_details(url)
-        if store_data:
-            store_data = sort_trading_hours(store_data)
-            all_stores.append(store_data)
-            if verbose:
-                print(f"  [{i}/{len(urls)}] {store_data.get('publicName', 'Unknown')}", file=sys.stderr)
-        else:
-            errors.append((i, url))
-            if verbose:
-                print(f"  [{i}/{len(urls)}] Failed to extract", file=sys.stderr)
+    # Use thread pool for parallel fetching
+    with ThreadPoolExecutor(max_workers=args.workers) as executor:
+        # Submit all tasks
+        future_to_url = {
+            executor.submit(get_store_details, url): (i, url) 
+            for i, url in enumerate(urls, 1)
+        }
         
-        # Be polite to the server
-        time.sleep(0.5)
+        # Process results as they complete
+        for future in as_completed(future_to_url):
+            i, url = future_to_url[future]
+            try:
+                store_data = future.result()
+                if store_data:
+                    all_stores.append(store_data)
+                    if verbose:
+                        print(f"  [{i}/{len(urls)}] {store_data.get('publicName', 'Unknown')}", 
+                              file=sys.stderr)
+                else:
+                    errors.append((i, url))
+                    if verbose:
+                        print(f"  [{i}/{len(urls)}] Failed to extract", file=sys.stderr)
+            except Exception as e:
+                errors.append((i, url))
+                print(f"Error processing {url}: {e}", file=sys.stderr)
     
     # Print summary
     print(f"Extracted {len(all_stores)} stores", file=sys.stderr)
