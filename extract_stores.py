@@ -8,6 +8,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import argparse
 
 SITEMAP_FILE = "kmart.com.au-sitemap-au-storelocation-sitemap.xml.xml"
+DEFAULT_WORKERS = 16
 verbose = False
 
 def extract_urls_from_sitemap(filepath):
@@ -137,7 +138,7 @@ def main():
     
     parser = argparse.ArgumentParser(description='Extract Kmart store details from sitemap.')
     parser.add_argument('-v', '--verbose', action='store_true', help='Enable verbose output')
-    parser.add_argument('-w', '--workers', type=int, default=5, help='Number of parallel workers (default: 5)')
+    parser.add_argument('-w', '--workers', type=int, default=DEFAULT_WORKERS, help=f'Number of parallel workers (default: {DEFAULT_WORKERS})')
     args = parser.parse_args()
     verbose = args.verbose
     
