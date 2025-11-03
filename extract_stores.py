@@ -8,7 +8,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import argparse
 
 SITEMAP_FILE = "kmart.com.au-sitemap-au-storelocation-sitemap.xml.xml"
-DEFAULT_WORKERS = 10
+DEFAULT_WORKERS = 16
 verbose = False
 
 def extract_urls_from_sitemap(filepath):
