@@ -113,6 +113,24 @@ def get_store_details(url):
         print(f"Error processing {url}: {e}", file=sys.stderr)
         return None
 
+def sort_trading_hours(store_data):
+    """Sort trading hours from Monday to Sunday."""
+    if store_data and 'tradingHours' in store_data and store_data['tradingHours']:
+        day_order = {
+            'MONDAY': 0,
+            'TUESDAY': 1,
+            'WEDNESDAY': 2,
+            'THURSDAY': 3,
+            'FRIDAY': 4,
+            'SATURDAY': 5,
+            'SUNDAY': 6
+        }
+        store_data['tradingHours'] = sorted(
+            store_data['tradingHours'],
+            key=lambda x: day_order.get(x.get('weekDay', ''), 7)
+        )
+    return store_data
+
 def main():
     """Main function to scrape all stores and output as JSON."""
     global verbose
@@ -137,6 +155,7 @@ def main():
     for i, url in enumerate(urls, 1):
         store_data = get_store_details(url)
         if store_data:
+            store_data = sort_trading_hours(store_data)
             all_stores.append(store_data)
             if verbose:
                 print(f"  [{i}/{len(urls)}] {store_data.get('publicName', 'Unknown')}", file=sys.stderr)
