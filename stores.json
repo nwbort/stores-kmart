@@ -1,57 +1,5 @@
 [
   {
-    "locationId": "1001",
-    "publicName": "Burwood",
-    "phoneNumber": "+61 3 8822 8200",
-    "address1": "172 Burwood Hwy",
-    "address2": "",
-    "address3": "",
-    "city": "Burwood East",
-    "state": "VIC",
-    "postcode": "3151",
-    "latitude": "-37.853542696865297",
-    "longitude": "145.14977931976298",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/burwood/"
-  },
-  {
     "locationId": "1002",
     "publicName": "Blacktown",
     "phoneNumber": "+61 2 9678 1200",
@@ -104,58 +52,6 @@
     "url": "https://www.kmart.com.au/store-detail/blacktown/"
   },
   {
-    "locationId": "1003",
-    "publicName": "Ingle Farm",
-    "phoneNumber": "+61 8 8203 6100",
-    "address1": "Ingle Farm S/C   Cnr Montague & Walkleys Rds",
-    "address2": "",
-    "address3": "",
-    "city": "Ingle Farm",
-    "state": "SA",
-    "postcode": "5098",
-    "latitude": "-34.829267999999999",
-    "longitude": "138.648022",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/ingle-farm/"
-  },
-  {
     "locationId": "1004",
     "publicName": "Morley",
     "phoneNumber": "+61 8 9376 0100",
@@ -206,58 +102,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/morley/"
-  },
-  {
-    "locationId": "1005",
-    "publicName": "Kurralta Park",
-    "phoneNumber": "+61 8 8193 1900",
-    "address1": "153 Anzac Hwy",
-    "address2": "",
-    "address3": "",
-    "city": "Kurralta Park",
-    "state": "SA",
-    "postcode": "5037",
-    "latitude": "-34.956353999999997",
-    "longitude": "138.56571199999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/kurralta-park/"
   },
   {
     "locationId": "1006",
@@ -520,58 +364,6 @@
     "url": "https://www.kmart.com.au/store-detail/cannon-hill/"
   },
   {
-    "locationId": "1014",
-    "publicName": "Campbellfield",
-    "phoneNumber": "+61 3 8301 9600",
-    "address1": "1434 Sydney Rd",
-    "address2": "",
-    "address3": "",
-    "city": "Campbellfield",
-    "state": "VIC",
-    "postcode": "3061",
-    "latitude": "-37.688670000000002",
-    "longitude": "144.959858",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/campbellfield/"
-  },
-  {
     "locationId": "1016",
     "publicName": "Boronia",
     "phoneNumber": "+61 3 8739 7600",
@@ -591,7 +383,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -884,58 +676,6 @@
     "url": "https://www.kmart.com.au/store-detail/warwick/"
   },
   {
-    "locationId": "1024",
-    "publicName": "Kardinya",
-    "phoneNumber": "+61 8 9338 8200",
-    "address1": "Kardinya Park S/C   Cnr North Lake Rd & South St",
-    "address2": "",
-    "address3": "",
-    "city": "Kardinya",
-    "state": "WA",
-    "postcode": "6163",
-    "latitude": "-32.068100000000001",
-    "longitude": "115.81618400000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "11:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/kardinya/"
-  },
-  {
     "locationId": "1025",
     "publicName": "Mt Isa",
     "phoneNumber": "+61 7 4744 0700",
@@ -1007,7 +747,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -1404,58 +1144,6 @@
     "url": "https://www.kmart.com.au/store-detail/woodridge/"
   },
   {
-    "locationId": "1034",
-    "publicName": "Townsville",
-    "phoneNumber": "+61 7 4758 0200",
-    "address1": "Stockland Townsville   Cnr Ross River Rd & Nathan St",
-    "address2": "",
-    "address3": "",
-    "city": "Aitkenvale",
-    "state": "QLD",
-    "postcode": "4810",
-    "latitude": "-19.297733000000001",
-    "longitude": "146.760942",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/townsville/"
-  },
-  {
     "locationId": "1035",
     "publicName": "Altona",
     "phoneNumber": "+61 3 8378 7500",
@@ -1475,7 +1163,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -1579,7 +1267,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -1787,7 +1475,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -1839,7 +1527,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -1891,7 +1579,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -1922,58 +1610,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/greensborough/"
-  },
-  {
-    "locationId": "1045",
-    "publicName": "Bendigo",
-    "phoneNumber": "+61 3 5447 6300",
-    "address1": "Lansell Plaza S/C   267-283 High St",
-    "address2": "",
-    "address3": "",
-    "city": "Kangaroo Flat",
-    "state": "VIC",
-    "postcode": "3555",
-    "latitude": "-36.809997000000003",
-    "longitude": "144.241241",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/bendigo/"
   },
   {
     "locationId": "1046",
@@ -2132,58 +1768,6 @@
     "url": "https://www.kmart.com.au/store-detail/noarlunga/"
   },
   {
-    "locationId": "1049",
-    "publicName": "Darwin",
-    "phoneNumber": "+61 8 8920 1700",
-    "address1": "Casuarina Square S/C   Cnr Dripstone & Trower Rds",
-    "address2": "",
-    "address3": "",
-    "city": "Casuarina",
-    "state": "NT",
-    "postcode": "810",
-    "latitude": "-12.376150000000001",
-    "longitude": "130.881079",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/darwin/"
-  },
-  {
     "locationId": "1050",
     "publicName": "Lismore",
     "phoneNumber": "+61 2 6623 2900",
@@ -2286,58 +1870,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/corio/"
-  },
-  {
-    "locationId": "1052",
-    "publicName": "Midland",
-    "phoneNumber": "+61 8 6274 2800",
-    "address1": "Midland Gate S/C   Great Eastern Hwy",
-    "address2": "",
-    "address3": "",
-    "city": "Midland",
-    "state": "WA",
-    "postcode": "6056",
-    "latitude": "-31.889817000000001",
-    "longitude": "116.010328",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "11:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/midland/"
   },
   {
     "locationId": "1053",
@@ -2652,58 +2184,6 @@
     "url": "https://www.kmart.com.au/store-detail/bankstown/"
   },
   {
-    "locationId": "1059",
-    "publicName": "Port Pirie",
-    "phoneNumber": "+61 8 8633 9800",
-    "address1": "Pirie Plaza S/C   Grey Tce",
-    "address2": "",
-    "address3": "",
-    "city": "Port Pirie",
-    "state": "SA",
-    "postcode": "5540",
-    "latitude": "-33.191687000000002",
-    "longitude": "138.006958",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/port-pirie/"
-  },
-  {
     "locationId": "1060",
     "publicName": "Maroochydore",
     "phoneNumber": "+61 7 5409 0800",
@@ -2806,58 +2286,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/rosny/"
-  },
-  {
-    "locationId": "1063",
-    "publicName": "Wynnum",
-    "phoneNumber": "+61 7 3308 5300",
-    "address1": "Wynnum Plaza S/C   Wynnum Rd",
-    "address2": "",
-    "address3": "",
-    "city": "Wynnum West",
-    "state": "QLD",
-    "postcode": "4178",
-    "latitude": "-27.456367",
-    "longitude": "153.15537699999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/wynnum/"
   },
   {
     "locationId": "1064",
@@ -2978,110 +2406,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/capalaba/"
-  },
-  {
-    "locationId": "1072",
-    "publicName": "Tamworth",
-    "phoneNumber": "+61 2 5712 9200",
-    "address1": "City Plaza S/C   White St",
-    "address2": "",
-    "address3": "",
-    "city": "Tamworth",
-    "state": "NSW",
-    "postcode": "2340",
-    "latitude": "-31.092070826260517",
-    "longitude": "150.93221820792573",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/tamworth/"
-  },
-  {
-    "locationId": "1074",
-    "publicName": "Tweed Heads",
-    "phoneNumber": "+61 7 5589 7900",
-    "address1": "Tweed City S/C   Cnr Pacific Hwy & Kirkwood Rd",
-    "address2": "",
-    "address3": "",
-    "city": "Tweed Heads South",
-    "state": "NSW",
-    "postcode": "2486",
-    "latitude": "-28.199743000000002",
-    "longitude": "153.54528500000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/tweed-heads/"
   },
   {
     "locationId": "1076",
@@ -3240,58 +2564,6 @@
     "url": "https://www.kmart.com.au/store-detail/sylvania/"
   },
   {
-    "locationId": "1079",
-    "publicName": "Chatswood",
-    "phoneNumber": "+61 2 9934 7400",
-    "address1": "Chatswood Chase S/C   Cnr Victoria Ave & Archer St",
-    "address2": "",
-    "address3": "",
-    "city": "Chatswood",
-    "state": "NSW",
-    "postcode": "2067",
-    "latitude": "-33.793984999999999",
-    "longitude": "151.18586200000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/chatswood/"
-  },
-  {
     "locationId": "1080",
     "publicName": "Burnie",
     "phoneNumber": "+61 3 6432 8700",
@@ -3415,7 +2687,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -3571,7 +2843,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -3623,7 +2895,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -3758,58 +3030,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/mt-druitt/"
-  },
-  {
-    "locationId": "1094",
-    "publicName": "Nowra",
-    "phoneNumber": "+61 2 4429 3000",
-    "address1": "Stockland Shopping Centre   Cnr East & Junction Sts",
-    "address2": "",
-    "address3": "",
-    "city": "Nowra",
-    "state": "NSW",
-    "postcode": "2541",
-    "latitude": "-34.876740260597508",
-    "longitude": "150.60647867857358",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/nowra/"
   },
   {
     "locationId": "1096",
@@ -3966,58 +3186,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/bateau-bay/"
-  },
-  {
-    "locationId": "1099",
-    "publicName": "Woy Woy",
-    "phoneNumber": "+61 2 4343 0600",
-    "address1": "Deepwater Plaza S/C   Cnr Railway & George Sts",
-    "address2": "",
-    "address3": "",
-    "city": "Woy Woy",
-    "state": "NSW",
-    "postcode": "2256",
-    "latitude": "-33.488042999999998",
-    "longitude": "151.32397",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/woy-woy/"
   },
   {
     "locationId": "1100",
@@ -4228,58 +3396,6 @@
     "url": "https://www.kmart.com.au/store-detail/south-hedland/"
   },
   {
-    "locationId": "1104",
-    "publicName": "Alice Springs",
-    "phoneNumber": "+61 8 8959 8300",
-    "address1": "Alice Springs  Cnr Stott Tce & Bath St",
-    "address2": "",
-    "address3": "",
-    "city": "Alice Springs",
-    "state": "NT",
-    "postcode": "870",
-    "latitude": "-23.700417000000002",
-    "longitude": "133.87815699999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/alice-springs/"
-  },
-  {
     "locationId": "1106",
     "publicName": "Cranbourne",
     "phoneNumber": "+61 3 5991 2100",
@@ -4299,7 +3415,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -4436,58 +3552,6 @@
     "url": "https://www.kmart.com.au/store-detail/warrnambool/"
   },
   {
-    "locationId": "1110",
-    "publicName": "Albury",
-    "phoneNumber": "+61 2 6043 5700",
-    "address1": "Cnr Smollett & Townsend St",
-    "address2": "",
-    "address3": "",
-    "city": "Albury",
-    "state": "NSW",
-    "postcode": "2640",
-    "latitude": "-36.082000999999998",
-    "longitude": "146.91357500000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/albury/"
-  },
-  {
     "locationId": "1111",
     "publicName": "Traralgon",
     "phoneNumber": "+61 3 5172 9400",
@@ -4507,7 +3571,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -4559,7 +3623,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -4644,58 +3708,6 @@
     "url": "https://www.kmart.com.au/store-detail/maitland/"
   },
   {
-    "locationId": "1116",
-    "publicName": "Port Adelaide",
-    "phoneNumber": "+61 8 8415 1500",
-    "address1": "Port Adelaide Plaza Shopping Centre 200-220 Commercial Road",
-    "address2": "",
-    "address3": "",
-    "city": "Port Adelaide",
-    "state": "SA",
-    "postcode": "5015",
-    "latitude": "-34.848502000000003",
-    "longitude": "138.50536399999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/port-adelaide/"
-  },
-  {
     "locationId": "1117",
     "publicName": "Rosebud",
     "phoneNumber": "+61 3 5982 9900",
@@ -4715,7 +3727,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -4746,58 +3758,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/rosebud/"
-  },
-  {
-    "locationId": "1119",
-    "publicName": "Karratha",
-    "phoneNumber": "+61 8 9159 1600",
-    "address1": "Karratha City S/C   Welcome Rd",
-    "address2": "",
-    "address3": "",
-    "city": "Karratha",
-    "state": "WA",
-    "postcode": "6714",
-    "latitude": "-20.735765000000001",
-    "longitude": "116.846478",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/karratha/"
   },
   {
     "locationId": "1121",
@@ -4902,58 +3862,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/casula/"
-  },
-  {
-    "locationId": "1124",
-    "publicName": "Toowong",
-    "phoneNumber": "+61 7 3212 0700",
-    "address1": "Toowong Village S/C   9 Sherwood Rd",
-    "address2": "",
-    "address3": "",
-    "city": "Toowong",
-    "state": "QLD",
-    "postcode": "4066",
-    "latitude": "-27.485064999999999",
-    "longitude": "152.99181099999998",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/toowong/"
   },
   {
     "locationId": "1125",
@@ -5443,7 +4351,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -5495,7 +4403,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -5807,7 +4715,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -5911,7 +4819,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -6223,7 +5131,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -6327,7 +5235,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -6379,7 +5287,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -6587,7 +5495,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -6691,7 +5599,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -6743,7 +5651,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -7055,7 +5963,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -7367,7 +6275,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -7556,58 +6464,6 @@
     "url": "https://www.kmart.com.au/store-detail/hervey-bay/"
   },
   {
-    "locationId": "1186",
-    "publicName": "Browns Plains",
-    "phoneNumber": "+61 7 3809 9300",
-    "address1": "Grand Plaza Shopping Centre  Cnr Mt Lindesay Hwy & Browns Plains Rd",
-    "address2": "",
-    "address3": "",
-    "city": "Browns Plains",
-    "state": "QLD",
-    "postcode": "4118",
-    "latitude": "-27.662559000000002",
-    "longitude": "153.03996899999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/browns-plains/"
-  },
-  {
     "locationId": "1187",
     "publicName": "Bunbury South",
     "phoneNumber": "+61 8 9781 4800",
@@ -7660,58 +6516,6 @@
     "url": "https://www.kmart.com.au/store-detail/bunbury-south/"
   },
   {
-    "locationId": "1188",
-    "publicName": "Moonee Ponds",
-    "phoneNumber": "+61 3 8371 1300",
-    "address1": "21-31 Hall Street",
-    "address2": "",
-    "address3": "",
-    "city": "Moonee Ponds",
-    "state": "VIC",
-    "postcode": "3039",
-    "latitude": "-37.76614",
-    "longitude": "144.92276000000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/moonee-ponds/"
-  },
-  {
     "locationId": "1189",
     "publicName": "Stanhope Gardens",
     "phoneNumber": "+61 2 8887 1900",
@@ -7762,58 +6566,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/stanhope-gardens/"
-  },
-  {
-    "locationId": "1191",
-    "publicName": "South Morang",
-    "phoneNumber": "+61 3 9404 9300",
-    "address1": "400  Mcdonalds Rd",
-    "address2": "",
-    "address3": "",
-    "city": "South Morang",
-    "state": "VIC",
-    "postcode": "3752",
-    "latitude": "-37.6514028",
-    "longitude": "145.07203229999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/south-morang/"
   },
   {
     "locationId": "1202",
@@ -8199,7 +6951,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -8336,110 +7088,6 @@
     "url": "https://www.kmart.com.au/store-detail/indooroopilly/"
   },
   {
-    "locationId": "1218",
-    "publicName": "Aspley",
-    "phoneNumber": "+61 7 3863 8600",
-    "address1": "Aspley Hypermarket 59 Albany Creek Rd ",
-    "address2": "",
-    "address3": "",
-    "city": "Aspley",
-    "state": "QLD",
-    "postcode": "4034",
-    "latitude": "-27.362082000000001",
-    "longitude": "153.01398100000006",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/aspley/"
-  },
-  {
-    "locationId": "1219",
-    "publicName": "Calamvale",
-    "phoneNumber": "+61 7 3370 6200",
-    "address1": "Corner Calam & Compton Roads -  ",
-    "address2": "",
-    "address3": "",
-    "city": "Sunnybank Hills",
-    "state": "QLD",
-    "postcode": "4109",
-    "latitude": "-27.610520259097267",
-    "longitude": "153.05539542778627",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/calamvale/"
-  },
-  {
     "locationId": "1220",
     "publicName": "Lidcombe",
     "phoneNumber": "+61 2 8748 7400",
@@ -8511,7 +7159,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -8596,58 +7244,6 @@
     "url": "https://www.kmart.com.au/store-detail/churchill/"
   },
   {
-    "locationId": "1225",
-    "publicName": "Coolalinga",
-    "phoneNumber": "+61 8 8928 7000",
-    "address1": "425 Stuart Highway",
-    "address2": "",
-    "address3": "",
-    "city": "Coolalinga",
-    "state": "NT",
-    "postcode": "839",
-    "latitude": "-12.520862899999999",
-    "longitude": "131.04098060000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/coolalinga/"
-  },
-  {
     "locationId": "1226",
     "publicName": "Clayton",
     "phoneNumber": "+61 3 9538 2000",
@@ -8667,7 +7263,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -9376,58 +7972,6 @@
     "url": "https://www.kmart.com.au/store-detail/bass-hill/"
   },
   {
-    "locationId": "1244",
-    "publicName": "Halls Head",
-    "phoneNumber": "+61 8 9535 0500",
-    "address1": "14 Guava Way",
-    "address2": "",
-    "address3": "",
-    "city": "Halls Head",
-    "state": "WA",
-    "postcode": "6210",
-    "latitude": "-32.548906299999999",
-    "longitude": "115.70342089999997",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "10:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/halls-head/"
-  },
-  {
     "locationId": "1245",
     "publicName": "Gungahlin",
     "phoneNumber": "+61 2 6123 2500",
@@ -9792,58 +8336,6 @@
     "url": "https://www.kmart.com.au/store-detail/coomera/"
   },
   {
-    "locationId": "1259",
-    "publicName": "Tarneit",
-    "phoneNumber": "+61 3 8015 2000",
-    "address1": "540 Derrimut Road",
-    "address2": "",
-    "address3": "",
-    "city": "Tarneit",
-    "state": "VIC",
-    "postcode": "3029",
-    "latitude": "-37.838413500000009",
-    "longitude": "144.69024379999996",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/tarneit/"
-  },
-  {
     "locationId": "1260",
     "publicName": "Coffs Harbour",
     "phoneNumber": "+61 2 5634 4900",
@@ -9915,7 +8407,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -9946,58 +8438,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/delacombe/"
-  },
-  {
-    "locationId": "1262",
-    "publicName": "Broadmeadows",
-    "phoneNumber": "+61 3 9230 2500",
-    "address1": "1169 Pascoe Vale Rd ",
-    "address2": "",
-    "address3": "",
-    "city": "Broadmeadows",
-    "state": "VIC",
-    "postcode": "3047",
-    "latitude": "-37.703852099999999",
-    "longitude": "144.87940490000005",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/broadmeadows/"
   },
   {
     "locationId": "1263",
@@ -10071,7 +8511,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -10123,7 +8563,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -10154,110 +8594,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/manor-lakes/"
-  },
-  {
-    "locationId": "1275",
-    "publicName": "Stafford",
-    "phoneNumber": "+61 7 3037 0900",
-    "address1": "Stafford City Shopping Centre 400 Stafford Road  ",
-    "address2": "",
-    "address3": "",
-    "city": "Stafford",
-    "state": "QLD",
-    "postcode": "4053",
-    "latitude": "-27.411309500000002",
-    "longitude": "153.01019669999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/stafford/"
-  },
-  {
-    "locationId": "1278",
-    "publicName": "East Victoria Park",
-    "phoneNumber": "+61 8 6330 8300",
-    "address1": "The Park Centre Albany Highway",
-    "address2": "",
-    "address3": "",
-    "city": "East Victoria Park",
-    "state": "WA",
-    "postcode": "6101",
-    "latitude": "-31.984240199999999",
-    "longitude": "115.90165769999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "11:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/east-victoria-park/"
   },
   {
     "locationId": "1279",
@@ -10312,58 +8648,6 @@
     "url": "https://www.kmart.com.au/store-detail/kotara/"
   },
   {
-    "locationId": "1280",
-    "publicName": "Griffith",
-    "phoneNumber": "+61 2 6969 8100",
-    "address1": "Crossing Street & Banna Ave",
-    "address2": "",
-    "address3": "",
-    "city": "Griffith",
-    "state": "NSW",
-    "postcode": "2680",
-    "latitude": "-34.3943327",
-    "longitude": "145.93460110000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/griffith/"
-  },
-  {
     "locationId": "1282",
     "publicName": "Ellenbrook",
     "phoneNumber": "+61 8 6497 4900",
@@ -10416,58 +8700,6 @@
     "url": "https://www.kmart.com.au/store-detail/ellenbrook/"
   },
   {
-    "locationId": "1283",
-    "publicName": "Yamanto",
-    "phoneNumber": "+61 7 3294 4600",
-    "address1": "Yamanto Central 488 Warwick Road",
-    "address2": "",
-    "address3": "",
-    "city": "Yamanto",
-    "state": "QLD",
-    "postcode": "4305",
-    "latitude": "-27.660450000000001",
-    "longitude": "152.74194",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/yamanto/"
-  },
-  {
     "locationId": "1284",
     "publicName": "Warragul",
     "phoneNumber": "+61 3 5623 8500",
@@ -10487,7 +8719,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -10591,7 +8823,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -10624,58 +8856,6 @@
     "url": "https://www.kmart.com.au/store-detail/caroline-springs/"
   },
   {
-    "locationId": "1287",
-    "publicName": "Geraldton",
-    "phoneNumber": "+61 8 9923 6800",
-    "address1": "Northgate Shopping Centre Cnr Chapman Road & View Street",
-    "address2": "",
-    "address3": "",
-    "city": "Geraldton",
-    "state": "WA",
-    "postcode": "6530",
-    "latitude": "-28.76717567",
-    "longitude": "114.616844177",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "11:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/geraldton/"
-  },
-  {
     "locationId": "1288",
     "publicName": "Echuca K Hub",
     "phoneNumber": "+61 3 5480 4000",
@@ -10695,7 +8875,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "8:00AM - 7:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -10747,7 +8927,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "9:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -10799,7 +8979,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -10903,7 +9083,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "9:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -10955,7 +9135,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "9:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -11059,7 +9239,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -11111,7 +9291,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -11163,7 +9343,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -11350,58 +9530,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/wetherill-park/"
-  },
-  {
-    "locationId": "1355",
-    "publicName": "Wonthaggi",
-    "phoneNumber": "+61 3 5671 7300",
-    "address1": "Wonthaggi Plaza Shopping Centre 2 Biggs Drive",
-    "address2": "",
-    "address3": "",
-    "city": "Wonthaggi",
-    "state": "VIC",
-    "postcode": "3995",
-    "latitude": "-38.603936300000001",
-    "longitude": "145.5840771",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/wonthaggi/"
   },
   {
     "locationId": "1356",
@@ -11683,7 +9811,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -11924,58 +10052,6 @@
     "url": "https://www.kmart.com.au/store-detail/broken-hill/"
   },
   {
-    "locationId": "1367",
-    "publicName": "Roselands",
-    "phoneNumber": "+61 2 9106 1400",
-    "address1": "Roselands Shopping Centre Roselands Drive",
-    "address2": "",
-    "address3": "",
-    "city": "Roselands",
-    "state": "NSW",
-    "postcode": "2196",
-    "latitude": "-33.935006727807384",
-    "longitude": "151.06934338603173",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/roselands/"
-  },
-  {
     "locationId": "1368",
     "publicName": "Macquarie",
     "phoneNumber": "+61 2 9917 3300",
@@ -12047,7 +10123,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -12099,7 +10175,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -12255,7 +10331,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -12359,7 +10435,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -12619,7 +10695,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -12723,7 +10799,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -12827,7 +10903,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -13120,110 +11196,6 @@
     "url": "https://www.kmart.com.au/store-detail/bega-k-hub/"
   },
   {
-    "locationId": "3305",
-    "publicName": "Yass K Hub",
-    "phoneNumber": "+61 2 6226 5004",
-    "address1": "142 Comur Street",
-    "address2": "",
-    "address3": "",
-    "city": "Yass",
-    "state": "NSW",
-    "postcode": "2582",
-    "latitude": "-34.843600000000002",
-    "longitude": "148.90988870000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "10:00AM - 4:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/yass-k-hub/"
-  },
-  {
-    "locationId": "3306",
-    "publicName": "Sarina K Hub",
-    "phoneNumber": "+61 7 4943 0052",
-    "address1": "Sarina Beach Rd Shopping Centre 13 Sarina Beach Rd",
-    "address2": "",
-    "address3": "",
-    "city": "Sarina",
-    "state": "QLD",
-    "postcode": "4737",
-    "latitude": "-21.416637000000001",
-    "longitude": "149.21765199999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/sarina-k-hub/"
-  },
-  {
     "locationId": "3307",
     "publicName": "Katherine K Hub",
     "phoneNumber": "+61 8 8973 5700",
@@ -13295,7 +11267,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -13430,58 +11402,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/beerwah-k-hub/"
-  },
-  {
-    "locationId": "3312",
-    "publicName": "Chinchilla K Hub",
-    "phoneNumber": "+61 7 4669 1196",
-    "address1": "44 Middle Street",
-    "address2": "",
-    "address3": "",
-    "city": "Chinchilla",
-    "state": "QLD",
-    "postcode": "4413",
-    "latitude": "-26.740707",
-    "longitude": "150.622535",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/chinchilla-k-hub/"
   },
   {
     "locationId": "3313",
@@ -13659,7 +11579,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -14023,7 +11943,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -14054,58 +11974,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/hamilton-k-hub/"
-  },
-  {
-    "locationId": "3325",
-    "publicName": "Esperance K Hub",
-    "phoneNumber": "+61 8 9079 9700",
-    "address1": "Esperance Shopping Centre 1 Forrest Street",
-    "address2": "",
-    "address3": "",
-    "city": "Esperance",
-    "state": "WA",
-    "postcode": "6450",
-    "latitude": "-33.858997000000002",
-    "longitude": "121.89014400000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/esperance-k-hub/"
   },
   {
     "locationId": "3326",
@@ -14179,7 +12047,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "9:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -14316,58 +12184,6 @@
     "url": "https://www.kmart.com.au/store-detail/gympie-k-hub/"
   },
   {
-    "locationId": "3330",
-    "publicName": "Mudgee K Hub",
-    "phoneNumber": "+61 2 6371 9500",
-    "address1": "77 Mortimer Street",
-    "address2": "",
-    "address3": "",
-    "city": "Mudgee",
-    "state": "NSW",
-    "postcode": "2850",
-    "latitude": "-32.598590000000002",
-    "longitude": "149.58926",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "10:00AM - 4:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/mudgee-k-hub/"
-  },
-  {
     "locationId": "3331",
     "publicName": "Ayr K Hub",
     "phoneNumber": "+61 7 4783 1858",
@@ -14491,7 +12307,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -14595,7 +12411,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -14626,58 +12442,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/yarrawonga-k-hub/"
-  },
-  {
-    "locationId": "3337",
-    "publicName": "Windsor Khub",
-    "phoneNumber": "+61 2 4571 9900",
-    "address1": "210 George Street",
-    "address2": "",
-    "address3": "",
-    "city": "Windsor",
-    "state": "NSW",
-    "postcode": "2756",
-    "latitude": "-33.607509999999998",
-    "longitude": "150.81948",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/windsor-khub/"
   },
   {
     "locationId": "3338",
@@ -14782,110 +12546,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/dalby-k-hub/"
-  },
-  {
-    "locationId": "3341",
-    "publicName": "Northam K Hub",
-    "phoneNumber": "+61 8 9621 1138",
-    "address1": "187 Fitzgerald Street",
-    "address2": "",
-    "address3": "",
-    "city": "Northam",
-    "state": "WA",
-    "postcode": "6401",
-    "latitude": "-31.653616",
-    "longitude": "116.671555",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/northam-k-hub/"
-  },
-  {
-    "locationId": "3342",
-    "publicName": "Bowral K Hub",
-    "phoneNumber": "+61 2 4862 6800",
-    "address1": "6 Boolwey Street",
-    "address2": "",
-    "address3": "",
-    "city": "Bowral",
-    "state": "NSW",
-    "postcode": "2576",
-    "latitude": "-34.480049999999999",
-    "longitude": "150.41650999999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "10:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/bowral-k-hub/"
   },
   {
     "locationId": "3343",
@@ -15219,7 +12879,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "9:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -15375,7 +13035,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "8:00AM - 7:00PM",
         "weekDay": "TUESDAY"
       },
       {
@@ -15406,58 +13066,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/swan-hill-k-hub/"
-  },
-  {
-    "locationId": "3354",
-    "publicName": "Ocean Shores K Hub",
-    "phoneNumber": "+61 2 6684 8600",
-    "address1": "Ocean Village Shopping Centre 86 Rajah Road",
-    "address2": "",
-    "address3": "",
-    "city": "Ocean Shores",
-    "state": "NSW",
-    "postcode": "2483",
-    "latitude": "-28.523519",
-    "longitude": "153.546043",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/ocean-shores-k-hub/"
   },
   {
     "locationId": "3355",
