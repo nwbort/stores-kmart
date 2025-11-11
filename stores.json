@@ -936,58 +936,6 @@
     "url": "https://www.kmart.com.au/store-detail/kardinya/"
   },
   {
-    "locationId": "1025",
-    "publicName": "Mt Isa",
-    "phoneNumber": "+61 7 4744 0700",
-    "address1": "Mt Isa Village   Cnr Marian & Atherton Sts",
-    "address2": "",
-    "address3": "",
-    "city": "Mt Isa",
-    "state": "QLD",
-    "postcode": "4825",
-    "latitude": "-20.725895999999999",
-    "longitude": "139.495057",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/mt-isa/"
-  },
-  {
     "locationId": "1026",
     "publicName": "Keysborough",
     "phoneNumber": "+61 3 8796 7400",
