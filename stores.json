@@ -936,6 +936,58 @@
     "url": "https://www.kmart.com.au/store-detail/kardinya/"
   },
   {
+    "locationId": "1025",
+    "publicName": "Mt Isa",
+    "phoneNumber": "+61 7 4744 0700",
+    "address1": "Mt Isa Village   Cnr Marian & Atherton Sts",
+    "address2": "",
+    "address3": "",
+    "city": "Mt Isa",
+    "state": "QLD",
+    "postcode": "4825",
+    "latitude": "-20.725895999999999",
+    "longitude": "139.495057",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 9:00PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 6:00PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "Closed",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/mt-isa/"
+  },
+  {
     "locationId": "1026",
     "publicName": "Keysborough",
     "phoneNumber": "+61 3 8796 7400",
@@ -4592,58 +4644,6 @@
     "url": "https://www.kmart.com.au/store-detail/maitland/"
   },
   {
-    "locationId": "1116",
-    "publicName": "Port Adelaide",
-    "phoneNumber": "+61 8 8415 1500",
-    "address1": "Port Adelaide Plaza Shopping Centre 200-220 Commercial Road",
-    "address2": "",
-    "address3": "",
-    "city": "Port Adelaide",
-    "state": "SA",
-    "postcode": "5015",
-    "latitude": "-34.848502000000003",
-    "longitude": "138.50536399999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/port-adelaide/"
-  },
-  {
     "locationId": "1117",
     "publicName": "Rosebud",
     "phoneNumber": "+61 3 5982 9900",
@@ -7138,58 +7138,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/innisfail/"
-  },
-  {
-    "locationId": "1177",
-    "publicName": "Victoria Point",
-    "phoneNumber": "+61 7 3829 4700",
-    "address1": "Cnr Cleveland/Redland Bay & Bunker Rds",
-    "address2": "",
-    "address3": "",
-    "city": "Victoria Point",
-    "state": "QLD",
-    "postcode": "4165",
-    "latitude": "-27.586995999999999",
-    "longitude": "153.28075100000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/victoria-point/"
   },
   {
     "locationId": "1178",
@@ -11037,7 +10985,7 @@
       }
     ],
     "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/bairnsdale-k-hub/"
+    "url": "https://www.kmart.com.au/store-detail/bairnsdale/"
   },
   {
     "locationId": "1321",
@@ -11089,7 +11037,7 @@
       }
     ],
     "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/bairnsdale/"
+    "url": "https://www.kmart.com.au/store-detail/bairnsdale-k-hub/"
   },
   {
     "locationId": "1350",
