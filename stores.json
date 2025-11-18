@@ -323,43 +323,7 @@
     "postcode": "3216",
     "latitude": "-38.170203000000001",
     "longitude": "144.34963399999998",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "24hr",
-        "weekDay": "SUNDAY"
-      }
-    ],
+    "tradingHours": [],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/belmont-vic/"
   },
@@ -10726,58 +10690,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/echuca-k-hub/"
-  },
-  {
-    "locationId": "1289",
-    "publicName": "Cobram K Hub",
-    "phoneNumber": "+61 3 5873 6200",
-    "address1": "21 High Street",
-    "address2": "",
-    "address3": "",
-    "city": "Cobram",
-    "state": "VIC",
-    "postcode": "3644",
-    "latitude": "-35.919350999999999",
-    "longitude": "145.64954700000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/cobram-k-hub/"
   },
   {
     "locationId": "1290",
