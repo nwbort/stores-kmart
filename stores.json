@@ -6480,6 +6480,58 @@
     "url": "https://www.kmart.com.au/store-detail/chermside/"
   },
   {
+    "locationId": "1160",
+    "publicName": "Burwood NSW",
+    "phoneNumber": "+61 2 8746 3500",
+    "address1": "100 Burwood Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Burwood",
+    "state": "NSW",
+    "postcode": "2134",
+    "latitude": "-33.874597000000001",
+    "longitude": "151.105694",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/burwood-nsw/"
+  },
+  {
     "locationId": "1161",
     "publicName": "Airport West",
     "phoneNumber": "+61 3 8336 2000",
@@ -15318,6 +15370,58 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/swan-hill-k-hub/"
+  },
+  {
+    "locationId": "3354",
+    "publicName": "Ocean Shores K Hub",
+    "phoneNumber": "+61 2 6684 8600",
+    "address1": "Ocean Village Shopping Centre 86 Rajah Road",
+    "address2": "",
+    "address3": "",
+    "city": "Ocean Shores",
+    "state": "NSW",
+    "postcode": "2483",
+    "latitude": "-28.523519",
+    "longitude": "153.546043",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 7:00PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/ocean-shores-k-hub/"
   },
   {
     "locationId": "3355",
