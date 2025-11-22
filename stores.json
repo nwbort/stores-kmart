@@ -5422,7 +5422,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -5474,7 +5474,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -5786,7 +5786,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -5890,7 +5890,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -6202,7 +6202,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -6306,7 +6306,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -6566,7 +6566,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -6722,7 +6722,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -8126,7 +8126,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -9166,7 +9166,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11053,7 +11053,7 @@
       }
     ],
     "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/bairnsdale-k-hub/"
+    "url": "https://www.kmart.com.au/store-detail/bairnsdale/"
   },
   {
     "locationId": "1321",
@@ -11105,7 +11105,7 @@
       }
     ],
     "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/bairnsdale/"
+    "url": "https://www.kmart.com.au/store-detail/bairnsdale-k-hub/"
   },
   {
     "locationId": "1350",
@@ -12078,7 +12078,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -15112,58 +15112,6 @@
     "url": "https://www.kmart.com.au/store-detail/port-douglas-k-hub/"
   },
   {
-    "locationId": "3348",
-    "publicName": "Gatton K Hub",
-    "phoneNumber": "+61 7 5460 0700",
-    "address1": "107 Spencer Street",
-    "address2": "",
-    "address3": "",
-    "city": "Gatton",
-    "state": "QLD",
-    "postcode": "4343",
-    "latitude": "-27.558613000000001",
-    "longitude": "152.27736400000001",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 4:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/gatton-k-hub/"
-  },
-  {
     "locationId": "3349",
     "publicName": "Lakes Entrance K Hub",
     "phoneNumber": "+61 3 5155 2985",
@@ -15318,58 +15266,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/yamba-k-hub/"
-  },
-  {
-    "locationId": "3352",
-    "publicName": "Swan Hill K Hub",
-    "phoneNumber": "+61 3 5036 7500",
-    "address1": "151-165 Beveridge Street",
-    "address2": "",
-    "address3": "",
-    "city": "Swan Hill",
-    "state": "VIC",
-    "postcode": "3585",
-    "latitude": "-35.339179999999999",
-    "longitude": "143.55815999999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/swan-hill-k-hub/"
   },
   {
     "locationId": "3354",
