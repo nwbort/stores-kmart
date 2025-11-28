@@ -565,7 +565,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -1761,7 +1761,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "7:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -1813,7 +1813,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "7:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -2385,7 +2385,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -3040,7 +3040,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -3441,7 +3441,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -3649,7 +3649,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -5001,7 +5001,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -6561,7 +6561,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -7445,7 +7445,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -7965,7 +7965,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -8641,7 +8641,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -8901,7 +8901,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -9993,7 +9993,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -10981,7 +10981,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -11137,7 +11137,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -11345,7 +11345,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -12229,7 +12229,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -12660,7 +12660,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
+        "hours": "8:00AM - 7:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -12697,7 +12697,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:00PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -12801,7 +12801,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
@@ -13186,58 +13186,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/sarina-k-hub/"
-  },
-  {
-    "locationId": "3307",
-    "publicName": "Katherine K Hub",
-    "phoneNumber": "+61 8 8973 5700",
-    "address1": "Cnr Lindsay Street & First Street",
-    "address2": "",
-    "address3": "",
-    "city": "Katherine",
-    "state": "NT",
-    "postcode": "850",
-    "latitude": "-14.462982",
-    "longitude": "132.26843299999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/katherine-k-hub/"
   },
   {
     "locationId": "3309",
@@ -14280,6 +14228,58 @@
     "url": "https://www.kmart.com.au/store-detail/gympie-k-hub/"
   },
   {
+    "locationId": "3330",
+    "publicName": "Mudgee K Hub",
+    "phoneNumber": "+61 2 6371 9500",
+    "address1": "77 Mortimer Street",
+    "address2": "",
+    "address3": "",
+    "city": "Mudgee",
+    "state": "NSW",
+    "postcode": "2850",
+    "latitude": "-32.598590000000002",
+    "longitude": "149.58926",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 7:00PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 7:00PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 7:00PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 7:00PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 7:00PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "10:00AM - 4:00PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/mudgee-k-hub/"
+  },
+  {
     "locationId": "3331",
     "publicName": "Ayr K Hub",
     "phoneNumber": "+61 7 4783 1858",
@@ -15260,7 +15260,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 4:00PM",
+        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       }
     ],
