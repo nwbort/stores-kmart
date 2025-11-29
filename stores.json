@@ -570,7 +570,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -1766,7 +1766,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "7:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -1818,7 +1818,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "7:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -2390,7 +2390,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -3114,27 +3114,27 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "MONDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "TUESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "WEDNESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "THURSDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -3654,7 +3654,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -4798,7 +4798,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -5006,7 +5006,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -5474,7 +5474,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -5818,27 +5818,27 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "WEDNESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -6774,7 +6774,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -7450,7 +7450,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -7970,7 +7970,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -8126,7 +8126,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -8646,7 +8646,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -8906,7 +8906,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -9166,7 +9166,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -9458,27 +9458,27 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "MONDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "WEDNESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "THURSDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -9998,7 +9998,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -10258,7 +10258,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -10981,12 +10981,12 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "THURSDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11142,7 +11142,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11174,7 +11174,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "MONDAY"
       },
       {
@@ -11350,7 +11350,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11813,12 +11813,12 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "THURSDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11850,17 +11850,17 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "MONDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "TUESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "WEDNESDAY"
       },
       {
@@ -11870,7 +11870,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12078,7 +12078,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12162,27 +12162,27 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "MONDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "TUESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "WEDNESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "THURSDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12234,7 +12234,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12370,17 +12370,17 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "MONDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "TUESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "WEDNESDAY"
       },
       {
@@ -12390,7 +12390,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12422,17 +12422,17 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "MONDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "TUESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "WEDNESDAY"
       },
       {
@@ -12442,7 +12442,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12526,27 +12526,27 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "WEDNESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12702,7 +12702,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12806,7 +12806,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -13186,6 +13186,58 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/sarina-k-hub/"
+  },
+  {
+    "locationId": "3307",
+    "publicName": "Katherine K Hub",
+    "phoneNumber": "+61 8 8973 5700",
+    "address1": "Cnr Lindsay Street & First Street",
+    "address2": "",
+    "address3": "",
+    "city": "Katherine",
+    "state": "NT",
+    "postcode": "850",
+    "latitude": "-14.462982",
+    "longitude": "132.26843299999999",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 7:00PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 6:00PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "9:00AM - 5:00PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/katherine-k-hub/"
   },
   {
     "locationId": "3309",
@@ -14938,7 +14990,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:30PM",
+        "hours": "9:00AM - 6:00PM",
         "weekDay": "FRIDAY"
       },
       {
