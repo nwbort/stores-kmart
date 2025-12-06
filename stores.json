@@ -934,7 +934,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -1298,7 +1298,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "7:00AM - 10:00PM",
+        "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -1454,7 +1454,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -1558,7 +1558,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -1870,7 +1870,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -1922,7 +1922,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -2234,7 +2234,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -2442,7 +2442,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -2876,22 +2876,6 @@
     "url": "https://www.kmart.com.au/store-detail/goulburn/"
   },
   {
-    "locationId": "1065",
-    "publicName": "Mildura",
-    "phoneNumber": "+61 3 5051 0200",
-    "address1": "Cnr Pine Ave & Lime St",
-    "address2": "",
-    "address3": "",
-    "city": "Mildura",
-    "state": "VIC",
-    "postcode": "3500",
-    "latitude": "-34.182357000000003",
-    "longitude": "142.160709",
-    "tradingHours": [],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/mildura/"
-  },
-  {
     "locationId": "1067",
     "publicName": "Capalaba",
     "phoneNumber": "+61 7 3212 0500",
@@ -2978,7 +2962,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -3394,7 +3378,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -3446,7 +3430,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -3602,7 +3586,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -4174,7 +4158,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -4538,7 +4522,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -4746,7 +4730,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -7346,7 +7330,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -7398,7 +7382,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -7606,7 +7590,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -7762,7 +7746,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -8178,7 +8162,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -8230,7 +8214,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -9530,7 +9514,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -9790,7 +9774,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -9842,7 +9826,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 9:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -9894,7 +9878,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -10102,7 +10086,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -10570,7 +10554,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -10674,7 +10658,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -10726,7 +10710,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "9:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -10778,7 +10762,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -10986,7 +10970,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11053,7 +11037,7 @@
       }
     ],
     "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/bairnsdale-k-hub/"
+    "url": "https://www.kmart.com.au/store-detail/bairnsdale/"
   },
   {
     "locationId": "1321",
@@ -11105,7 +11089,59 @@
       }
     ],
     "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/bairnsdale/"
+    "url": "https://www.kmart.com.au/store-detail/bairnsdale-k-hub/"
+  },
+  {
+    "locationId": "1323",
+    "publicName": "Mildura",
+    "phoneNumber": "+61 3 5051 0200",
+    "address1": "831 Fifteen St",
+    "address2": "",
+    "address3": "",
+    "city": "Mildura",
+    "state": "VIC",
+    "postcode": "3500",
+    "latitude": "-34.2064314",
+    "longitude": "142.13812669999999",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 11:59PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/mildura/"
   },
   {
     "locationId": "1350",
@@ -11194,7 +11230,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11454,7 +11490,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11558,7 +11594,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "7:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11610,7 +11646,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11870,7 +11906,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -11974,7 +12010,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12026,7 +12062,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12078,7 +12114,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12338,7 +12374,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12598,7 +12634,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12962,7 +12998,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -13118,7 +13154,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "9:00AM - 7:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -13326,7 +13362,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "9:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -13690,7 +13726,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -13846,7 +13882,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -13950,7 +13986,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "9:00AM - 7:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -14210,7 +14246,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "9:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -14314,7 +14350,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
+        "hours": "9:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -14418,7 +14454,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "9:00AM - 7:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -14574,7 +14610,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -14626,7 +14662,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "9:00AM - 7:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -14782,7 +14818,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -14834,7 +14870,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "9:00AM - 7:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -14938,7 +14974,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 7:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -15250,7 +15286,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -15354,7 +15390,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -15458,7 +15494,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 5:00PM",
+        "hours": "9:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -15562,7 +15598,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
