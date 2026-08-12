@@ -1,5 +1,6 @@
 import json
 import sys
+import time
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.request import urlopen
@@ -9,6 +10,10 @@ import argparse
 
 SITEMAP_FILE = "kmart.com.au-sitemap-au-storelocation-sitemap.xml.xml"
 DEFAULT_WORKERS = 16
+FETCH_ATTEMPTS = 3
+# A handful of DC / "dark store" URLs in the sitemap always 404, so allow some
+# failures - but fail loudly if the success rate collapses.
+DEFAULT_MIN_SUCCESS_RATE = 0.9
 verbose = False
 
 def extract_urls_from_sitemap(filepath):
@@ -16,23 +21,42 @@ def extract_urls_from_sitemap(filepath):
     try:
         tree = ET.parse(filepath)
         root = tree.getroot()
-        # Handle the namespace
-        namespace = {'ns': 'https://www.sitemaps.org/schemas/sitemap/0.9'}
-        urls = [elem.text for elem in root.findall('.//ns:loc', namespace)]
+        # Match <loc> regardless of which sitemap namespace URI is used
+        # (kmart.com.au has served both https:// and http:// variants)
+        urls = [
+            elem.text.strip()
+            for elem in root.iter()
+            if elem.tag.rpartition('}')[2] == 'loc' and elem.text
+        ]
         return urls
     except Exception as e:
         print(f"Error parsing sitemap: {e}", file=sys.stderr)
         return []
+
+def fetch_html(url):
+    """Fetch a page, retrying on transient network errors."""
+    for attempt in range(FETCH_ATTEMPTS):
+        try:
+            with urlopen(url, timeout=10) as response:
+                return response.read().decode('utf-8')
+        except HTTPError:
+            # A 404 will not become a 200 on retry
+            raise
+        except (URLError, TimeoutError, OSError) as e:
+            if attempt == FETCH_ATTEMPTS - 1:
+                raise
+            if verbose:
+                print(f"Retrying {url} after error: {e}", file=sys.stderr)
+            time.sleep(2 ** attempt)
 
 def get_store_details(url):
     """Fetch a store page and extract details from the JSON data."""
     try:
         if verbose:
             print(f"Fetching: {url}", file=sys.stderr)
-        
-        with urlopen(url, timeout=10) as response:
-            html = response.read().decode('utf-8')
-        
+
+        html = fetch_html(url)
+
         # Extract JSON from __NEXT_DATA__ script tag
         start_marker = '"__NEXT_DATA__":'
         start_idx = html.find(start_marker)
@@ -139,6 +163,8 @@ def main():
     parser = argparse.ArgumentParser(description='Extract Kmart store details from sitemap.')
     parser.add_argument('-v', '--verbose', action='store_true', help='Enable verbose output')
     parser.add_argument('-w', '--workers', type=int, default=DEFAULT_WORKERS, help=f'Number of parallel workers (default: {DEFAULT_WORKERS})')
+    parser.add_argument('--min-success-rate', type=float, default=DEFAULT_MIN_SUCCESS_RATE,
+                        help=f'Exit non-zero if the fraction of stores extracted falls below this (default: {DEFAULT_MIN_SUCCESS_RATE})')
     args = parser.parse_args()
     verbose = args.verbose
     
@@ -147,10 +173,14 @@ def main():
         sys.exit(1)
     
     urls = extract_urls_from_sitemap(SITEMAP_FILE)
-    
+
     if verbose:
         print(f"Found {len(urls)} stores in sitemap", file=sys.stderr)
-    
+
+    if not urls:
+        print(f"Error: No store URLs found in '{SITEMAP_FILE}'.", file=sys.stderr)
+        sys.exit(1)
+
     all_stores = []
     errors = []
     
@@ -187,7 +217,16 @@ def main():
         print(f"Failed to extract {len(errors)} stores:", file=sys.stderr)
         for idx, url in errors:
             print(f"  [{idx}] {url}", file=sys.stderr)
-    
+
+    success_rate = len(all_stores) / len(urls)
+    if success_rate < args.min_success_rate:
+        print(
+            f"Error: Only extracted {len(all_stores)}/{len(urls)} stores "
+            f"({success_rate:.1%}), below the {args.min_success_rate:.1%} threshold.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
     all_stores_sorted = sorted(all_stores, key=lambda x: x.get('locationId', ''))
     print(json.dumps(all_stores_sorted, indent=2))
 
