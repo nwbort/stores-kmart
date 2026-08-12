@@ -1,4 +1,5 @@
 import json
+import random
 import sys
 import time
 import xml.etree.ElementTree as ET
@@ -9,8 +10,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import argparse
 
 SITEMAP_FILE = "kmart.com.au-sitemap-au-storelocation-sitemap.xml.xml"
-DEFAULT_WORKERS = 16
-FETCH_ATTEMPTS = 3
+# Kmart's WAF starts returning 403 when the whole sitemap is fetched in a burst,
+# so keep concurrency modest and back off hard when throttled.
+DEFAULT_WORKERS = 8
+FETCH_ATTEMPTS = 5
+# Statuses worth retrying: throttling and transient server-side faults. A 404
+# will not become a 200 on retry.
+RETRYABLE_STATUSES = {403, 408, 425, 429, 500, 502, 503, 504}
 # A handful of DC / "dark store" URLs in the sitemap always 404, so allow some
 # failures - but fail loudly if the success rate collapses.
 DEFAULT_MIN_SUCCESS_RATE = 0.9
@@ -33,21 +39,37 @@ def extract_urls_from_sitemap(filepath):
         print(f"Error parsing sitemap: {e}", file=sys.stderr)
         return []
 
+def backoff_delay(attempt, retry_after=None):
+    """Seconds to wait before the next attempt, with jitter to desynchronise workers."""
+    if retry_after:
+        try:
+            return min(float(retry_after), 30)
+        except ValueError:
+            pass
+    return min(2 ** attempt, 16) + random.uniform(0, 1)
+
 def fetch_html(url):
-    """Fetch a page, retrying on transient network errors."""
+    """Fetch a page, retrying on throttling and transient network errors."""
+    # Note: kmart.com.au's WAF 403s a browser User-Agent from a datacenter IP
+    # but serves urllib's default one, so do not set one here.
     for attempt in range(FETCH_ATTEMPTS):
         try:
-            with urlopen(url, timeout=10) as response:
+            with urlopen(url, timeout=15) as response:
                 return response.read().decode('utf-8')
-        except HTTPError:
-            # A 404 will not become a 200 on retry
-            raise
+        except HTTPError as e:
+            if e.code not in RETRYABLE_STATUSES or attempt == FETCH_ATTEMPTS - 1:
+                raise
+            delay = backoff_delay(attempt, e.headers.get('Retry-After'))
+            if verbose:
+                print(f"Retrying {url} in {delay:.1f}s after HTTP {e.code}", file=sys.stderr)
+            time.sleep(delay)
         except (URLError, TimeoutError, OSError) as e:
             if attempt == FETCH_ATTEMPTS - 1:
                 raise
+            delay = backoff_delay(attempt)
             if verbose:
-                print(f"Retrying {url} after error: {e}", file=sys.stderr)
-            time.sleep(2 ** attempt)
+                print(f"Retrying {url} in {delay:.1f}s after error: {e}", file=sys.stderr)
+            time.sleep(delay)
 
 def get_store_details(url):
     """Fetch a store page and extract details from the JSON data."""
