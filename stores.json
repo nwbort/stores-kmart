@@ -2912,6 +2912,22 @@
     "url": "https://www.kmart.com.au/store-detail/goulburn/"
   },
   {
+    "locationId": "1065",
+    "publicName": "Mildura",
+    "phoneNumber": "+61 3 5051 0200",
+    "address1": "Cnr Pine Ave & Lime St",
+    "address2": "",
+    "address3": "",
+    "city": "Mildura",
+    "state": "VIC",
+    "postcode": "3500",
+    "latitude": "-34.182357000000003",
+    "longitude": "142.160709",
+    "tradingHours": [],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/mildura/"
+  },
+  {
     "locationId": "1067",
     "publicName": "Capalaba",
     "phoneNumber": "+61 7 3212 0500",
@@ -11128,58 +11144,6 @@
     "url": "https://www.kmart.com.au/store-detail/bairnsdale/"
   },
   {
-    "locationId": "1323",
-    "publicName": "Mildura",
-    "phoneNumber": "+61 3 5051 0200",
-    "address1": "831 Fifteen St",
-    "address2": "",
-    "address3": "",
-    "city": "Mildura",
-    "state": "VIC",
-    "postcode": "3500",
-    "latitude": "-34.2064314",
-    "longitude": "142.13812669999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/mildura/"
-  },
-  {
     "locationId": "1350",
     "publicName": "Camberwell",
     "phoneNumber": "+61 3 9834 4300",
@@ -13622,58 +13586,6 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/bowen-k-hub/"
-  },
-  {
-    "locationId": "3315",
-    "publicName": "Goondiwindi K Hub",
-    "phoneNumber": "+61 7 4676 6300",
-    "address1": "60 Marshall Street",
-    "address2": "",
-    "address3": "",
-    "city": "Goondiwindi",
-    "state": "QLD",
-    "postcode": "4390",
-    "latitude": "-28.550846",
-    "longitude": "150.321541",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "8:00AM - 5:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "Closed",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/goondiwindi-k-hub/"
   },
   {
     "locationId": "3316",
