@@ -2912,22 +2912,6 @@
     "url": "https://www.kmart.com.au/store-detail/goulburn/"
   },
   {
-    "locationId": "1065",
-    "publicName": "Mildura",
-    "phoneNumber": "+61 3 5051 0200",
-    "address1": "Cnr Pine Ave & Lime St",
-    "address2": "",
-    "address3": "",
-    "city": "Mildura",
-    "state": "VIC",
-    "postcode": "3500",
-    "latitude": "-34.182357000000003",
-    "longitude": "142.160709",
-    "tradingHours": [],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/mildura/"
-  },
-  {
     "locationId": "1067",
     "publicName": "Capalaba",
     "phoneNumber": "+61 7 3212 0500",
@@ -7556,58 +7540,6 @@
     "url": "https://www.kmart.com.au/store-detail/hervey-bay/"
   },
   {
-    "locationId": "1186",
-    "publicName": "Browns Plains",
-    "phoneNumber": "+61 7 3809 9300",
-    "address1": "Grand Plaza Shopping Centre  Cnr Mt Lindesay Hwy & Browns Plains Rd",
-    "address2": "",
-    "address3": "",
-    "city": "Browns Plains",
-    "state": "QLD",
-    "postcode": "4118",
-    "latitude": "-27.662559000000002",
-    "longitude": "153.03996899999999",
-    "tradingHours": [
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "MONDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "TUESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "WEDNESDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "THURSDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "FRIDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "7:00AM - 9:00PM",
-        "weekDay": "SATURDAY"
-      },
-      {
-        "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
-        "weekDay": "SUNDAY"
-      }
-    ],
-    "typename": "Location",
-    "url": "https://www.kmart.com.au/store-detail/browns-plains/"
-  },
-  {
     "locationId": "1187",
     "publicName": "Bunbury South",
     "phoneNumber": "+61 8 9781 4800",
@@ -11142,6 +11074,58 @@
     ],
     "typename": "Location",
     "url": "https://www.kmart.com.au/store-detail/bairnsdale/"
+  },
+  {
+    "locationId": "1323",
+    "publicName": "Mildura",
+    "phoneNumber": "+61 3 5051 0200",
+    "address1": "831 Fifteen St",
+    "address2": "",
+    "address3": "",
+    "city": "Mildura",
+    "state": "VIC",
+    "postcode": "3500",
+    "latitude": "-34.2064314",
+    "longitude": "142.13812669999999",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/mildura/"
   },
   {
     "locationId": "1350",
