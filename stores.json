@@ -9524,7 +9524,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "SUNDAY"
       }
     ],
