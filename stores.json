@@ -9004,7 +9004,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "9:30AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -12696,7 +12696,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 7:00PM",
+        "hours": "9:00AM - 5:00PM",
         "weekDay": "SUNDAY"
       }
     ],
