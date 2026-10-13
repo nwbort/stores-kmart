@@ -4267,7 +4267,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SATURDAY"
       },
       {
