@@ -3344,6 +3344,58 @@
     "url": "https://www.kmart.com.au/store-detail/burnie/"
   },
   {
+    "locationId": "1084",
+    "publicName": "Bondi Eastgate",
+    "phoneNumber": "+61 2 8305 7400",
+    "address1": "Eastgate S/C   Cnr Spring & Newland Sts",
+    "address2": "",
+    "address3": "",
+    "city": "Bondi Junction",
+    "state": "NSW",
+    "postcode": "2022",
+    "latitude": "-33.892774000000003",
+    "longitude": "151.24871200000001",
+    "tradingHours": [
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "MONDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "TUESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "WEDNESDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "THURSDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "FRIDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SATURDAY"
+      },
+      {
+        "__typename": "TradingHour",
+        "hours": "8:00AM - 10:00PM",
+        "weekDay": "SUNDAY"
+      }
+    ],
+    "typename": "Location",
+    "url": "https://www.kmart.com.au/store-detail/bondi-eastgate/"
+  },
+  {
     "locationId": "1085",
     "publicName": "Brunswick",
     "phoneNumber": "+61 3 9388 5600",
