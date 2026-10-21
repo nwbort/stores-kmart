@@ -13503,7 +13503,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "Closed",
+        "hours": "9:00AM - 6:00PM",
         "weekDay": "TUESDAY"
       },
       {
