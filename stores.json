@@ -326,37 +326,37 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "6:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "6:00AM - 11:59PM",
         "weekDay": "TUESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "6:00AM - 11:59PM",
         "weekDay": "WEDNESDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "6:00AM - 11:59PM",
         "weekDay": "THURSDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "6:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "6:00AM - 11:59PM",
         "weekDay": "SATURDAY"
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "6:00AM - 11:59PM",
         "weekDay": "SUNDAY"
       }
     ],
