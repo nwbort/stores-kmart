@@ -1698,7 +1698,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 8:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -3482,7 +3482,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 6:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -5458,7 +5458,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -5822,7 +5822,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -5926,7 +5926,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -6238,7 +6238,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -6342,7 +6342,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -6602,7 +6602,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -6758,7 +6758,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -8162,7 +8162,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -9202,7 +9202,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "FRIDAY"
       },
       {
@@ -12114,7 +12114,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "FRIDAY"
       },
       {
