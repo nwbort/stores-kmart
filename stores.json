@@ -512,7 +512,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -586,7 +586,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -668,7 +668,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -1084,7 +1084,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -1292,7 +1292,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -1344,7 +1344,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -1396,7 +1396,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -1782,7 +1782,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "7:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -1834,7 +1834,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 11:59PM",
+        "hours": "7:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -2072,7 +2072,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -2748,7 +2748,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -2852,7 +2852,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -2972,7 +2972,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -3410,7 +3410,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "MONDAY"
       },
       {
@@ -3670,7 +3670,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "MONDAY"
       },
       {
@@ -4116,7 +4116,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -4376,7 +4376,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -4554,7 +4554,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -4814,7 +4814,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "MONDAY"
       },
       {
@@ -4948,7 +4948,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -5000,7 +5000,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -5022,7 +5022,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 7:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "MONDAY"
       },
       {
@@ -5364,7 +5364,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -5624,7 +5624,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -5802,7 +5802,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -5906,7 +5906,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -5988,7 +5988,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -6092,7 +6092,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -6218,7 +6218,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -6322,7 +6322,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 9:00PM",
+        "hours": "8:00AM - 10:00PM",
         "weekDay": "MONDAY"
       },
       {
@@ -6508,7 +6508,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -6582,7 +6582,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -6738,7 +6738,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -7236,7 +7236,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -7288,7 +7288,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -7340,7 +7340,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -7466,7 +7466,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 9:00PM",
         "weekDay": "MONDAY"
       },
       {
@@ -7600,7 +7600,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -7986,7 +7986,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -8328,7 +8328,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -8380,7 +8380,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -8432,7 +8432,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -8796,7 +8796,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -8900,7 +8900,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -9004,7 +9004,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -9026,7 +9026,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -9680,7 +9680,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -9784,7 +9784,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -10014,7 +10014,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 8:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -10200,7 +10200,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -10460,7 +10460,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -10564,7 +10564,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -11158,7 +11158,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -11812,7 +11812,7 @@
       },
       {
         "__typename": "TradingHour",
-        "hours": "9:00AM - 6:00PM",
+        "hours": "8:00AM - 6:00PM",
         "weekDay": "SUNDAY"
       }
     ],
@@ -12250,7 +12250,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
@@ -12718,7 +12718,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:00PM",
         "weekDay": "MONDAY"
       },
       {
@@ -12822,7 +12822,7 @@
     "tradingHours": [
       {
         "__typename": "TradingHour",
-        "hours": "8:00AM - 10:00PM",
+        "hours": "8:00AM - 11:59PM",
         "weekDay": "MONDAY"
       },
       {
